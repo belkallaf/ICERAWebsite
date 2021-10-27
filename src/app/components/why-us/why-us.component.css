@@ -1,0 +1,106 @@
+/* ==========================================================================
+  why-us Section Style
+   ========================================================================== */
+
+#why-us {
+    padding-top: 3rem;
+    background: #fff;
+}
+
+#why-us .section-title {
+    color: #0898E7
+}
+
+#why-us .icon {
+    display: inline-block;
+    /* width: 60px;
+    height: 60px; */
+    border-radius: 4px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+#why-us .content-left span {
+    /* float: right; */
+}
+
+#why-us .content-left .text {
+    /* text-align: right; */
+}
+
+#why-us .content-right span {
+    /* float: left; */
+}
+
+#why-us .box-item {
+    box-shadow: 0 0 12px #F4F4F4;
+    padding: 15px;
+    line-height: 22px;
+    margin-top: 30px;
+    border-radius: 3px;
+    background-color: #fff;
+    -webkit-transition: all .3s ease-in-out;
+    -mox-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    position: relative;
+    top: 0;
+}
+
+#why-us .box-item .icon {
+    text-align: center;
+    /* margin: 12px; */
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+#why-us .box-item .icon i {
+    /* color: #F63854; */
+    color: #0898E7;
+    font-size: 30px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+#why-us .box-item h4 {
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    margin-bottom: 12px;
+}
+
+#why-us .box-item .text p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+#why-us .box-item:hover {
+    box-shadow: 0 10px 22px 10px rgba(27, 38, 49, 0.1);
+}
+
+#why-us .box-item:hover h4 {
+    color: #0898E7;
+}
+
+#why-us .show-box {
+    margin-top: 50px;
+}
+
+#why-us .show-box img {
+    width: 100%;
+}
+
+.second-why {
+    padding-top: 5.5rem;
+}
